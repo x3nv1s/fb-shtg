@@ -25,7 +25,7 @@ python shxtk.py
 cd $HOME/fb-shtg
 ```
 ```python
-git git pull
+git pull
 ```
 ```python
 python shxtk.py
