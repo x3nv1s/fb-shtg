@@ -5,7 +5,7 @@
 > [!NOTE]
 > - If you encounter any issues or difficulties, don't hesitate to reach out and ask for assistance here. I’m here to help you with any problems you may face.
 
-<h4>Here’s the code to use the tool, just copy the texts below and paste it on your terminal</h4>
+<h4>Here’s the code to use the tool, just copy the texts below and paste it on your terminal.</h4>
 
 ```python
 git clone https://github.com/x3nv1s/fb-shtg.git
